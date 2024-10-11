@@ -1,1 +1,1 @@
-# blog-list
+# Blog list
